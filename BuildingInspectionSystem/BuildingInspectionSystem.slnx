@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="AgentService/AgentService.csproj" />
+  <Project Path="ApiGateway/ApiGateway.csproj" />
+  <Project Path="frontend/frontend.client/frontend.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="frontend/frontend.Server/frontend.Server.csproj" />
+  <Project Path="McpServer/McpServer.csproj" />
+  <Project Path="RagService/RagService.csproj" />
+</Solution>
